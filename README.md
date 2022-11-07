@@ -1,4 +1,4 @@
-# if game.CoreGui:FindFirstChild("MagicTrainingGui") then
+if game.CoreGui:FindFirstChild("MagicTrainingGui") then
 	game.CoreGui.MagicTrainingGui:Destroy()
 end
 
